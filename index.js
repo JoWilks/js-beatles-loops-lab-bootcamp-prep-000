@@ -4,8 +4,7 @@ function theBeatlesPlay(musicians,instruments) {
   for (let i=0;i<lm;i++) {
     var string = `${musicians} plays ${instruments}`;
     emptyarray[string];
-    
-  }
+    }
 }
 
 function johnLennonFacts(facts) {
